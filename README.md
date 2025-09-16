@@ -1,4 +1,4 @@
-### 💫 About Me:<br>
+### 💫 Hi, I'm Mohamed<br>
 🧑🏻‍💻 Senior Frontend Developer. <br>🧑🏻‍🎓 Studied Computer Engineering at the faculty of enginnering, Alexandria university. <br><br>
 
 
